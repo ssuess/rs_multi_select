@@ -19,6 +19,8 @@ This plugin will allow you to select multiple items in a thumbs view, and then b
 2. Make sure you are in the main thumbs view
 3. Select items you want to edit (you can use ctrl/cmd and shift keys for multiple selections)
 4. Click on the blue edit button
+5. Edit your items and save
+6. Enjoy life
 
 
 ## Changelog
