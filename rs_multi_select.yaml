@@ -1,0 +1,4 @@
+name    : rs_multi_select
+author  : Stephen Suess
+version : 1.0
+desc    : Allows mass selection and editing of resources in large thumbs view.
