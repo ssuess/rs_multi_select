@@ -45,7 +45,7 @@ This plugin will allow you to select multiple items in a thumbs view, and then b
 ## How to Use
 1. Perform search or view all resources of a collection
 2. Make sure you are in the main thumbs view
-3. Select items you want to edit (you can use ctrl/cmd and shift keys for multiple selections)
+3. Select items you want to edit by clicking in the lower left corner of the tile where there is white space (you can use ctrl/cmd and shift keys for multiple selections)
 4. Click on the blue edit button
 5. Edit your items and save
 6. Enjoy life
